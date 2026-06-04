@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz - Teste!
+title: Bem vindo!
 ---
-Blabla Testando!
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Blog para documentar os delírios de um estudante de cibersegurança.
+
+Nunca utilize nada que você ler nesse blog como verdade absoluta. Infelizmente, ainda sou humano, então recomendo pesquisar e validar os conceitos que eu irei trazer para cá. Questione tudo e todos!
